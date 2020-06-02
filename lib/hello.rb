@@ -1,4 +1,4 @@
-def hello_t(array)
+def hello_t(names){ |name| puts name } )
   i = 0
  
   while i < array.length
