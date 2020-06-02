@@ -8,6 +8,6 @@ def hello_t(array)
   array
 end
 else 
-  puts ""
+  puts "He"
 
 # call your method here!
